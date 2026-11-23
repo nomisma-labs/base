@@ -7,7 +7,7 @@ include(cmake/kit/std_modules.cmake)
 
 # The version lives only here; releases are tagged v<version> (docs/kit/build.md#versioning).
 project(base
-    VERSION 0.6.0
+    VERSION 0.6.1
     DESCRIPTION "Common definitions for Nomisma core libraries"
     LANGUAGES CXX)
 
